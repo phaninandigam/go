@@ -1,14 +1,8 @@
-// Comment
-
 package main
 
 import "fmt"
 import "strings"
-import "myutils"
-
-/////
-
-// ***********
+import "github.com/raj-it-geek/go/myutils"
 
 func main() {
 	var userStatus = "N"
