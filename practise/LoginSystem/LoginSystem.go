@@ -1,3 +1,4 @@
+// Comment
 
 package main
 
@@ -30,6 +31,3 @@ func createNewUserAccount() {
 	strings.Trim(userName, " ")
 	fmt.Printf("\n....%s\n", userName)
 }
-
-
-
