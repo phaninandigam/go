@@ -9,7 +9,6 @@ import "myutils"
 /////
 
 // ***********
-// Branch B2 mofifications
 
 func main() {
 	var userStatus = "N"
